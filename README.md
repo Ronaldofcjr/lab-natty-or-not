@@ -25,5 +25,7 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estrutur
 - Incentivo ao **aprendizado contínuo** e à inovação educacional
 - Facilitação do acesso à informação para **estudantes e profissionais da área educacional**
 
+- 📘 [Clique aqui para acessar o ebook em PDF](pdf/)
+
 ## 💭 Reflexão (Opcional)
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
